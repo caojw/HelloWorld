@@ -1,0 +1,5 @@
+E:\文档\VS2012\Projects\控制台程序\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\文档\VS2012\Projects\控制台程序\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\文档\VS2012\Projects\控制台程序\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\文档\VS2012\Projects\控制台程序\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\文档\VS2012\Projects\控制台程序\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
